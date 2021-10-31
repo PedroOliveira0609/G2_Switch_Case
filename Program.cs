@@ -67,6 +67,8 @@ namespace Switch_Case
                     }
 
                     WriteLine("");//Espaço----------
+                    WriteLine("");//Espaço----------
+                    
 
                     //Pergunta 2--------------------------------------------------------------------------
                     WriteLine("2)Após um acidente com motocicleta, a vítima está inconsciente e caída no chão com os joelhos dobrados. Nesta situação, um cuidado a ser prestado à vítima é: ");
@@ -77,6 +79,7 @@ namespace Switch_Case
 
                     WriteLine("");//Espaço----------
                     resposta = ReadLine();
+                     WriteLine("");//Espaço----------
 
                     resposta = resposta.ToUpper();
                     
@@ -117,6 +120,7 @@ namespace Switch_Case
 
                     WriteLine("");//Espaço----------
                     resposta = ReadLine();
+                     WriteLine("");//Espaço----------
 
                     resposta = resposta.ToUpper();
                     
